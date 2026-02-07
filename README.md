@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h3 align="left">Socials</h3>
+<h2 align="left">Socials</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h3 align="center">Game Development Tools I Like To Use</h3>
+<h2 align="left">Game Development Tools I Like To Use</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h3 align="center">Other Tools I'm Familiar With</h3>
+<h2 align="left">Other Tools I'm Familiar With</h2>
 
 ###
 
@@ -66,33 +66,33 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo"  />
-  <img width="50" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
 </div>
 
@@ -100,13 +100,13 @@
 
 <br clear="both">
 
-<h3 align="center">Tools I'd Like To Get Better With/Explore</h3>
+<h2 align="left">Tools I'd Like To Get Better With/Explore</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
@@ -127,9 +127,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frillion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frillion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Frillion&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frillion&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
