@@ -12,13 +12,13 @@
 
 <br clear="both">
 
-<h4 align="center">Socials</h4>
+<h3 align="left">Socials</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/friðrik-söebech-922b71293" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h4 align="center">Game Development Tools I Like To Use</h4>
+<h3 align="center">Game Development Tools I Like To Use</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h4 align="center">Other Tools I'm Familiar With</h4>
+<h3 align="center">Other Tools I'm Familiar With</h3>
 
 ###
 
@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-<h4 align="center">Tools I'd Like To Get Better With/Explore</h4>
+<h3 align="center">Tools I'd Like To Get Better With/Explore</h3>
 
 ###
 
